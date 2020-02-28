@@ -1,0 +1,10 @@
+19:18:25.583 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
+19:18:25.587 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
+19:18:25.602 [ERROR] i.g.j.fileprocessor.FileProcessor(line 42) - Folder already exists, C:\Users\Joyce\Documents\GitRepo_Projects\FileProcessor\test_folder/dummy_folder
+19:18:25.604 [ERROR] i.g.j.fileprocessor.FileProcessor(line 73) - Text '20190133' could not be parsed: Invalid value for DayOfMonth (valid values 1 - 28/31): 33
+19:18:25.713 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
+19:20:43.547 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
+19:20:43.551 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
+19:20:43.565 [ERROR] i.g.j.fileprocessor.FileProcessor(line 42) - Folder already exists, C:\Users\Joyce\Documents\GitRepo_Projects\FileProcessor\test_folder/dummy_folder
+19:20:43.567 [ERROR] i.g.j.fileprocessor.FileProcessor(line 73) - Text '20190133' could not be parsed: Invalid value for DayOfMonth (valid values 1 - 28/31): 33
+19:20:43.681 [ERROR] i.g.j.fileprocessor.FileProcessor(line 61) - Delete folder failed
