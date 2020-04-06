@@ -1,3 +1,5 @@
 *.log
 GitStatus_Projects*
 GitCommit_Projects*
+node_modules/
+bundle.js
