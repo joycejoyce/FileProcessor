@@ -1,5 +1,3 @@
 *.log
-GitStatus_Projects*
-GitCommit_Projects*
-node_modules/
-bundle.js
+GitStatus_*.txt
+GitCommit_*.bat
